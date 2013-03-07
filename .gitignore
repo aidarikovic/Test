@@ -1,1 +1,12 @@
-# git ignore
+.idea/
+.bundle
+db/*.sqlite3
+*.log
+tmp
+*.cache
+db/schema.rb
+desktop.ini
+log
+config/local_configuration.yml
+lib/scripts/output/*
+code_tester.rb
